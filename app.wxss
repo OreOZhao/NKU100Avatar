@@ -1,0 +1,15 @@
+@import 'wxss/container.wxss';
+@import 'wxss/button.wxss';
+@import 'wxss/text.wxss';
+@import 'wxss/size.wxss';
+@import 'wxss/element.wxss';
+@import 'wxss/component.wxss';
+
+page {
+  padding-top: 40rpx;
+  padding-bottom: 40rpx;
+  background-image: url(https://image.potatofield.cn/nku100_background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
+}

@@ -1,0 +1,23 @@
+<view class='container'> 
+  <image class='logo' src='https://image.potatofield.cn/nku100-preview.png'></image> 
+</view> 
+
+<view class='container'>
+  <button class='bar-button' bindtap='gotoAvatarCreator'>
+    
+    <view class='button-mask' hover-class='button-mask__hover'>定制头像</view>
+  </button>
+</view>
+
+<view class='container'> 
+  <button class='bar-button' hover-class='bar-button__hover' open-type='share'>分享给朋友</button> 
+</view> 
+
+<view class='container'>
+  <view class='content center'>
+    <text>Copyright © 2019</text>
+  </view>
+  <view class='content center'>
+    <navigator open-type='redirect' url='/pages/about/about'>南开大学新闻中心新媒体中心</navigator>
+  </view>
+</view>
